@@ -1,6 +1,0 @@
-artifact_location: file:///workspaces/mlops-camp/notebook/03-experiment-tracking/running-mlflow-exp/mlruns/0
-creation_time: 1716831951164
-experiment_id: '0'
-last_update_time: 1716831951164
-lifecycle_stage: active
-name: Default
