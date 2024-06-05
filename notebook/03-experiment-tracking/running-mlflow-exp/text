@@ -1,0 +1,7 @@
+p4iLc8XUZbyD2N5Y0SZF
+
+
+endpoint =---=   mlflow-database.ctaoe86e4ioq.us-east-1.rds.amazonaws.com
+
+
+mlflow server -h 0.0.0.0 -p 5000 --backend-store-uri postgresql://mlflow-database:p4iLc8XUZbyD2N5Y0SZF@mlflow-database.ctaoe86e4ioq.us-east-1.rds.amazonaws.com:5432/mlflow_db --default-artifact-root s3://mlflow-datacamp
